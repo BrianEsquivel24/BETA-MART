@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="TextoQueCambie" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Thai apestosa me encantas</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
